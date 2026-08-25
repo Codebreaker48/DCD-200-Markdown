@@ -1,2 +1,3 @@
-# fruits
+# Fruits
+## Berries
 Bananas are cool
